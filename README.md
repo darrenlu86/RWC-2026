@@ -32,9 +32,15 @@ Real World Crypto 2026 會議筆記與簡報資料。
 
 簡報已收錄，筆記待補。
 
-#### Verification and Testing
+#### Verification and Testing（Chair: Chitchanok Chuengsatiansup）
 
-簡報已收錄，筆記待補。
+| # | 講題 | 講者 | 筆記 |
+|---|------|------|------|
+| 1 | Finding Bugs and Features Using Cryptographically-Informed Functional Testing | Fernando Virdia | [筆記](Verification%20and%20Testing/1.%20Finding%20Bugs%20and%20Features%20Using%20CryptographicallyInformed%20Functional%20Testing/Finding%20Bugs%20and%20Features%20Using%20CryptographicallyInformed%20Functional%20Testing.md) |
+| 2 | Formosa Crypto: End-to-end Formally Verified Crypto Software | Santiago Arranz-Olmos, Ignacio Cuevas | [筆記](Verification%20and%20Testing/2.%20Formosa%20Crypto%20%20End-to-end%20formally%20verified%20crypto%20software/Formosa%20Crypto%20%20End-to-end%20formally%20verified%20crypto%20software.md) |
+| 3 | mlkem-native: A Unified, Fast and Verified ML-KEM Library | Hanno Becker | [筆記](Verification%20and%20Testing/3.%20mlkem-native%20a%20unified%2C%20fast%20and%20verified%20ML-KEM%20library/mlkem-native%20a%20unified%2C%20fast%20and%20verified%20ML-KEM%20library.md) |
+| 4 | Formally Verifying Circuits for Zero Knowledge Proofs | Alex Ozdemir | [筆記](Verification%20and%20Testing/4.%20Formally%20Verifying%20Circuits%20for%20Zero%20Knowledge%20Proofs/Formally%20Verifying%20Circuits%20for%20Zero%20Knowledge%20Proofs.md) |
+| 5 | Compositional Formal Verification of SNARKs with ArkLib | Quang Dao | [筆記](Verification%20and%20Testing/5.%20Compositional%20Formal%20Verification%20of%20SNARKs%20with%20ArkLib/Compositional%20Formal%20Verification%20of%20SNARKs%20with%20ArkLib.md) |
 
 ## 資料來源
 
