@@ -31,7 +31,11 @@ Real World Crypto 2026 會議筆記與簡報資料。
 
 #### Hardware
 
-簡報已收錄，筆記待補。
+| # | 講題 | 講者 | 筆記 |
+|---|------|------|------|
+| 1 | TEE.fail: Breaking Trusted Execution Environments via Memory Bus Interposition | Christina Pöpper, Daniel Gruss | [筆記](Hardware/1.%20TEE.fail%20Breaking%20Trusted%20Execution%20Environments%20via%20Memory%20Bus%20Interposition/TEE.fail%20Breaking%20Trusted%20Execution%20Environments%20via%20Memory%20Bus%20Interposition.md) |
+
+其餘場次簡報已收錄，筆記待補。
 
 #### Verification and Testing（Chair: Chitchanok Chuengsatiansup）
 
