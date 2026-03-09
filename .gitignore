@@ -1,0 +1,17 @@
+# 錄音檔
+*.mp3
+*.wav
+
+# 逐字稿
+transcript*.txt
+
+# macOS
+.DS_Store
+
+# 錄音腳本
+record.sh
+
+# 已轉換為 PDF 的大型 PPTX（本地保留原版）
+Invited Talk/Levchin Prize Awardee/Levchin Prize Awardee.pptx
+Invited Talk/Real-Time FHE Applications and the Era of Encrypted AI/Real-Time FHE Applications and the Era of Encrypted AI.pptx
+Hardware/3. Chypnosis Undervolting-based Static Side-channel Attacks/Chypnosis- Undervolting-based Static Side-channel Attacks.pptx
