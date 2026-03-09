@@ -18,6 +18,7 @@ Real World Crypto 2026 會議筆記與簡報資料。
 | # | 講題 | 講者 | 筆記 |
 |---|------|------|------|
 | — | Automated Protocol Analysis using Tamarin (Levchin Prize) | Cas Cremers | [筆記](Invited%20Talk/Levchin%20Prize%20Awardee/Levchin%20Prize%20Awardee.md) |
+| — | Real-Time FHE Applications and the Era of Encrypted AI | Jung Hee Cheon | [筆記](Invited%20Talk/Real-Time%20FHE%20Applications%20and%20the%20Era%20of%20Encrypted%20AI/Real-Time%20FHE%20Applications%20and%20the%20Era%20of%20Encrypted%20AI.md) |
 
 #### Beyond Secure Messaging（Chair: Cas Cremers）
 
