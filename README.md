@@ -34,6 +34,7 @@ Real World Crypto 2026 會議筆記與簡報資料。
 | # | 講題 | 講者 | 筆記 |
 |---|------|------|------|
 | 1 | TEE.fail: Breaking Trusted Execution Environments via Memory Bus Interposition | Christina Pöpper, Daniel Gruss | [筆記](Hardware/1.%20TEE.fail%20Breaking%20Trusted%20Execution%20Environments%20via%20Memory%20Bus%20Interposition/TEE.fail%20Breaking%20Trusted%20Execution%20Environments%20via%20Memory%20Bus%20Interposition.md) |
+| 2 | Migrating a Silicon Root of Trust to Post-Quantum Crypto | Jade Philipoom, Hoang Nguyen Hien Pham | [筆記](Hardware/2.%20Migrating%20a%20Silicon%20Root%20of%20Trust%20to%20Post-Quantum%20Crypto/Migrating%20a%20Silicon%20Root%20of%20Trust%20to%20Post-Quantum%20Crypto.md) |
 
 其餘場次簡報已收錄，筆記待補。
 
