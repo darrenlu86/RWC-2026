@@ -37,8 +37,7 @@ Real World Crypto 2026 會議筆記與簡報資料。
 | 2 | Migrating a Silicon Root of Trust to Post-Quantum Crypto | Jade Philipoom, Hoang Nguyen Hien Pham | [筆記](Hardware/2.%20Migrating%20a%20Silicon%20Root%20of%20Trust%20to%20Post-Quantum%20Crypto/Migrating%20a%20Silicon%20Root%20of%20Trust%20to%20Post-Quantum%20Crypto.md) |
 | 3 | Chypnosis: Undervolting-based Static Side-Channel Attacks | Shahin Tajik | [筆記](Hardware/3.%20Chypnosis%20Undervolting-based%20Static%20Side-channel%20Attacks/Chypnosis%20Undervolting-based%20Static%20Side-channel%20Attacks.md) |
 | 4 | Kerckhoff's Principle in Practice: Addressing Security by Obscurity in Secure Hardware | Jan Jancar | [筆記](Hardware/4.%20Kerckhoff%27s%20Principle%20in%20Practice%20Addressing%20Security%20by%20Obscurity%20in%20Secure%20Hardware/Kerckhoff%27s%20Principle%20in%20Practice%20Addressing%20Security%20by%20Obscurity%20in%20Secure%20Hardware.md) |
-
-其餘場次簡報已收錄，筆記待補。
+| 5 | Encryption in the Microarchitectural World | Ping-Lun Wang | [筆記](Hardware/5.%20Encryption%20in%20the%20microarchitectural%20world/Encryption%20in%20the%20microarchitectural%20world.md) |
 
 #### Verification and Testing（Chair: Chitchanok Chuengsatiansup）
 
