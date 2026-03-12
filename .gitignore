@@ -1,18 +1,23 @@
 # 錄音檔
 *.mp3
 *.wav
+*.webm
 
-# 逐字稿
+# 逐字稿原始檔
 transcript*.txt
+day*_transcript.tsv
+day*_whisper.csv
+day*_audio.*
+
+# 工具腳本
+record.sh
+download_slides.sh
+fetch_and_split_transcripts.sh
+extract_yt_transcript.py
+split_transcript.py
 
 # macOS
 .DS_Store
 
-# 錄音腳本
-record.sh
-
-# 已轉換為 PDF 的大型 PPTX（本地保留原版）
-Invited Talk/Levchin Prize Awardee/Levchin Prize Awardee.pptx
-Invited Talk/Real-Time FHE Applications and the Era of Encrypted AI/Real-Time FHE Applications and the Era of Encrypted AI.pptx
-Hardware/3. Chypnosis Undervolting-based Static Side-channel Attacks/Chypnosis- Undervolting-based Static Side-channel Attacks.pptx
-Verification and Testing/4. Formally Verifying Circuits for Zero Knowledge Proofs/Formally Verifying Circuits for Zero Knowledge Proofs.pptx
+# 已轉換為 PDF 的 PPTX（本地保留原版，git 只追蹤 PDF）
+*.pptx
